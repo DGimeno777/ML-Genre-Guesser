@@ -32,9 +32,14 @@ These preliminary genres are:
 2. Subgenres & Mixed Genres - Songs can sometimes fit into a number of different genres (or even be a mix of multiple) which could either confuse the model or possibly create a need for the model to be able to identify multiple genres that a song contains
 
 ## Resources
+### Code Libraries
 - [Python Sound Processing Library](https://www.youtube.com/watch?v=0ALKGR0I5MA)
 - [Signal DSP Text](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
+
+### Musical References
 - [Elements of a Song](https://www.futurelearn.com/courses/songwriting/0/steps/5711)
+- [Average Genre Tempos](https://music.stackexchange.com/questions/4525/list-of-average-genre-tempo-bpm-levels)
+- [Music Theory-Centri Tempo Explanation](http://www2.siba.fi/muste1/index.php?id=102&la=en)
 
 # Credits
 - [This guide](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) for providing the basics of ML
