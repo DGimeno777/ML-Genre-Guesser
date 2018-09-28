@@ -36,7 +36,7 @@ These preliminary genres are:
 - [Python Sound Processing Library](https://www.youtube.com/watch?v=0ALKGR0I5MA)
 - [Signal DSP Text](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
 - [BPM Detector Library](https://github.com/scaperot/the-BPM-detector-python)
-- [EchoNest Remix (only Python 2 :()](http://echonest.github.io/remix/examples.html)
+- [EchoNest Remix (only Python 2 :( )](http://echonest.github.io/remix/examples.html)
 
 ### Musical References
 - [Elements of a Song](https://www.futurelearn.com/courses/songwriting/0/steps/5711)
