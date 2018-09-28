@@ -1,5 +1,5 @@
 # ML-Genre-Guesser
-
+Note: Putting a hold on this project because audio processing is much more difficult that I thought and the primary reason for this project was to practice ML
 ## Intro/Purpose
 This project is meant to test if the genre of a song can be identified by processing its characteristics. The idea is that a song will be run through a processing library then can be run through a model to identify the genre.
 
